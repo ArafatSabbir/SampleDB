@@ -29,8 +29,7 @@ Follow the steps below to set up the dummy database on your local machine.
    
    - Open SQL Server Management Studio or any SQL Server client of your choice.
    - Connect to your SQL Server instance.
-   - Execute the SQL script file `BikeStores Sample Database - create objects.sql` to create objects.
-   - Then `BikeStores Sample Database - load data.sql` to load data.
+   - Execute the SQL script files `.sql` to create objects and load data.
    
 <!-- 4. **MySQL**:
    
